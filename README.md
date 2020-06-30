@@ -1,6 +1,6 @@
 ## Live Preview
 
-[https://todo-react-and-node.netlify.app/](Live Preview)
+# [Live Preview](https://todo-react-and-node.netlify.app/)
 
 ## Available Scripts
 
